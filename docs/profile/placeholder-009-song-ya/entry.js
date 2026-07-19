@@ -1,0 +1,22 @@
+export default {
+  id: 'placeholder-009',
+  name: '宋雅',
+  nickname: '小雅',
+  age: 31,
+  gender: '女性',
+  region: '浙江省',
+  birthDate: '1994-11-08',
+  deathDate: '2026-02-18',
+  date: '2026-02-18',
+  occupation: '编辑',
+  summary: '喜欢阅读、旅行和记录城市里的日常片段。',
+  quote: '愿每一次认真记录，都能留下一点温柔。',
+  biography: '这是用于验证纪念条目统计与展示效果的占位测试资料。',
+  passingCause: '暂未公开详细信息。',
+  socials: [],
+  tags: ['阅读', '旅行', '记录'],
+  hobbies: ['阅读', '旅行', '记录'],
+  petalsEnabled: true,
+  useDefaultBackground: true,
+  photo: new URL('./portrait.jpg', import.meta.url).href
+}

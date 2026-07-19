@@ -1,0 +1,22 @@
+export default {
+  id: 'placeholder-010',
+  name: '何川',
+  nickname: '阿川',
+  age: 47,
+  gender: '男性',
+  region: '重庆市',
+  birthDate: '1978-05-23',
+  deathDate: '2026-06-09',
+  date: '2026-06-09',
+  occupation: '摄影师',
+  summary: '热爱山川、摄影和与朋友分享沿途所见。',
+  quote: '光落下来的时候，平凡的地方也值得被记住。',
+  biography: '这是用于验证纪念条目统计与展示效果的占位测试资料。',
+  passingCause: '暂未公开详细信息。',
+  socials: [],
+  tags: ['摄影', '自然', '朋友'],
+  hobbies: ['摄影', '自然', '朋友'],
+  petalsEnabled: true,
+  useDefaultBackground: true,
+  photo: new URL('./portrait.jpg', import.meta.url).href
+}
