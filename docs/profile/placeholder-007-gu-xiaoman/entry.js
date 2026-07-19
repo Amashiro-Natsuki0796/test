@@ -2,6 +2,7 @@ export default {
   id: 'placeholder-007',
   name: '顾小满',
   age: 16,
+  gender: '女性',
   region: '湖北省',
   deathDate: '2024-04-06',
   date: '2024-04-06',

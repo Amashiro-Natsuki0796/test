@@ -2,6 +2,7 @@ export default {
   id: 'placeholder-006',
   name: '王北辰',
   age: 51,
+  gender: '男性',
   region: '陕西省',
   deathDate: '2023-12-29',
   date: '2023-12-29',

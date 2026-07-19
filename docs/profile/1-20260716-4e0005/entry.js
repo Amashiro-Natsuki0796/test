@@ -13,7 +13,7 @@ const entry = {
   "passingCause": "详细信息暂未公开。本站避免展示可模仿、猎奇或刺激性的细节，只保留必要、克制的纪念说明。",
   "petalsEnabled": true,
   "quote": "",
-  "region": "",
+  "region": "上海市",
   "socials": [],
   "summary": "## 小标题\n\n晚安宝贝",
   "tags": [],

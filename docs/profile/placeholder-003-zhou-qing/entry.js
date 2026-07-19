@@ -2,6 +2,7 @@ export default {
   id: 'placeholder-003',
   name: '周晴',
   age: 34,
+  gender: '女性',
   region: '北京市',
   deathDate: '2022-02-21',
   date: '2022-02-21',

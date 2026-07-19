@@ -3,7 +3,7 @@ export default {
   name: '林星河',
   nickname: '星河',
   age: 19,
-  gender: '男',
+  gender: '男性',
   region: '上海市',
   birthDate: '2002-08-19',
   deathDate: '2021-03-12',

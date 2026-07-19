@@ -2,6 +2,7 @@ export default {
   id: 'placeholder-002',
   name: '陈安',
   age: 27,
+  gender: '男性',
   region: '广东省',
   deathDate: '2022-02-21',
   date: '2022-02-21',

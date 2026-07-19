@@ -2,6 +2,7 @@ export default {
   id: 'placeholder-008',
   name: '赵闻',
   age: 68,
+  gender: '不便公开',
   region: '台湾地区',
   deathDate: '2024-10-14',
   date: '2024-10-14',

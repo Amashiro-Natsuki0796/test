@@ -2,6 +2,7 @@ export default {
   id: 'placeholder-004',
   name: '许舟',
   age: 42,
+  gender: '男性',
   region: '四川省',
   deathDate: '2023-12-29',
   date: '2023-12-29',

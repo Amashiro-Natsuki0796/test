@@ -2,6 +2,7 @@ export default {
   id: 'placeholder-005',
   name: '李念',
   age: 23,
+  gender: '女性',
   region: '辽宁省',
   deathDate: '2023-12-29',
   date: '2023-12-29',

@@ -13,7 +13,7 @@ const entry = {
   "passingCause": "暂未公开详细信息。",
   "petalsEnabled": true,
   "quote": "",
-  "region": "",
+  "region": "台湾地区",
   "socials": [],
   "summary": "",
   "tags": [],
