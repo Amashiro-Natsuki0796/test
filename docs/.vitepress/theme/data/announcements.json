@@ -4,18 +4,22 @@
     {
       "id": "announcement-2026-08-11-6zwo08",
       "date": "2026-08-11",
+      "image": "/assets/announcements/announcement-2026-08-11-6zwo08.png",
       "locales": {
         "zh": {
-          "title": "1",
-          "body": "1"
+          "title": "2",
+          "body": "2",
+          "alt": "2"
         },
         "en": {
-          "title": "1",
-          "body": "1"
+          "title": "2",
+          "body": "2",
+          "alt": "2"
         },
         "ja": {
-          "title": "1",
-          "body": "1"
+          "title": "2",
+          "body": "2",
+          "alt": "2"
         }
       }
     }
