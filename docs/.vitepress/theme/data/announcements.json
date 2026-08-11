@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "announcements": [
+    {
+      "id": "announcement-2026-08-11-6zwo08",
+      "date": "2026-08-11",
+      "locales": {
+        "zh": {
+          "title": "1",
+          "body": "1"
+        },
+        "en": {
+          "title": "1",
+          "body": "1"
+        },
+        "ja": {
+          "title": "1",
+          "body": "1"
+        }
+      }
+    }
+  ]
+}
